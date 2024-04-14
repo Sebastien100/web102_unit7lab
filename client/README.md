@@ -1,5 +1,5 @@
-Submitted by: Sebastien Samedy
-
+#Submitted by: Sebastien Samedy
+C:\Users\almig\OneDrive\Documents\Labs\Lab 7\web102_unit7lab\client\Lab7.gif
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
