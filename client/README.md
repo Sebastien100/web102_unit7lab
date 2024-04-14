@@ -1,6 +1,6 @@
 #Submitted by: Sebastien Samedy
-C:\Users\almig\OneDrive\Documents\Labs\Lab 7\web102_unit7lab\client\Lab7.gif
 # Getting Started with Create React App
+![Lab7](https://github.com/Sebastien100/web102_unit7lab/assets/129985367/82b787fe-57ee-4555-b065-b1a30ef34dda)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -15,7 +15,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
